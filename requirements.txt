@@ -1,0 +1,7 @@
+keras==3.8.0
+matplotlib==3.10.0
+scikit-learn==1.6.1
+tensorflow==2.18.0
+tensorflow-datasets==4.9.7
+numpy==1.26.4
+
